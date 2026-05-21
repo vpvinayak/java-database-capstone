@@ -1,0 +1,1 @@
+package com.smartclinic.repository; public interface PatientRepository {}

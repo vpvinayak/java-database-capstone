@@ -1,0 +1,1 @@
+package com.smartclinic.controller; public class PrescriptionController {}
