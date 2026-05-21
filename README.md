@@ -1,2 +1,1 @@
-# Smart Clinic Management System
-Capstone starter scaffold.
+# Smart Clinic Full Capstone

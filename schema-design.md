@@ -1,4 +1,2 @@
 # Schema Design
-
-MySQL: Doctor, Patient, Appointment, AdminUser
-MongoDB: Prescription
+MySQL and MongoDB schemas.
